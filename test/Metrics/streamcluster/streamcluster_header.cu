@@ -27,6 +27,7 @@
 #include <limits.h>
 
 #include <cuda.h>
+#include <cuda_runtime.h>
 
 #ifdef ENABLE_PARSEC_HOOKS
 #include <hooks.h>
